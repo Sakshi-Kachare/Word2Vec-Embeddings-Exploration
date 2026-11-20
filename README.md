@@ -1,14 +1,14 @@
-\## 🧠 Pretrained Word2Vec Embeddings Exploration Using Gensim
+## 🧠 Pretrained Word2Vec Embeddings Exploration Using Gensim
 
 
 
-\## 📌 Project Overview
+## 📌 Project Overview
 
 This project explores \*\*Word2Vec\*\* dense word embeddings using Google's pretrained \*\*`word2vec-google-news-300`\*\* model via the `gensim` library. It demonstrates how words are represented as 300-dimensional numerical vectors, how semantic similarity is measured, and how vector arithmetic captures semantic relationships and analogies\[cite: 3].
 
 
 
-\## 🎯 Project Objectives
+## 🎯 Project Objectives
 
 \- Load and inspect the pretrained `word2vec-google-news-300` (300-dimensional) embeddings using `gensim.downloader`\[cite: 3].
 
@@ -22,7 +22,7 @@ This project explores \*\*Word2Vec\*\* dense word embeddings using Google's pret
 
 
 
-\## 🛠️ Technologies \& Libraries Used
+## 🛠️ Technologies \& Libraries Used
 
 \- Python\[cite: 3]
 
@@ -34,7 +34,7 @@ This project explores \*\*Word2Vec\*\* dense word embeddings using Google's pret
 
 
 
-\## 📂 Model \& Embeddings Information
+## 📂 Model \& Embeddings Information
 
 \- \*\*Pretrained Model:\*\* `word2vec-google-news-300` (\~1,662.8 MB download via `gensim.downloader`)\[cite: 3]
 
@@ -42,7 +42,7 @@ This project explores \*\*Word2Vec\*\* dense word embeddings using Google's pret
 
 
 
-\## 🔍 Key Experiments \& Observations
+## 🔍 Key Experiments \& Observations
 
 1\. \*\*Word Vector Extraction:\*\* Retrieved 300-dimensional dense vectors (`shape = (300,)`) for words like `king` and `cricket`\[cite: 3].
 
@@ -58,7 +58,7 @@ This project explores \*\*Word2Vec\*\* dense word embeddings using Google's pret
 
 
 
-\## ⚙️ How to Run This Project
+## ⚙️ How to Run This Project
 
 1\. Install Python and Jupyter Notebook (or use Google Colab)\[cite: 3].
 
@@ -74,7 +74,7 @@ This project explores \*\*Word2Vec\*\* dense word embeddings using Google's pret
 
 
 
-\## 📁 Project Structure
+## 📁 Project Structure
 
 ```text
 
@@ -90,9 +90,7 @@ Word2Vec-Embeddings-Exploration/
 
 
 
-\## 👩‍💻 Author
-
-
+## 👩‍💻 Author
 
 Sakshi Kachare 
 
@@ -103,10 +101,6 @@ Email: sakshikachare444@gmail.com
 &#x20;
 
 GitHub: https://github.com/Sakshi-Kachare
-
-
-
-
 
 ⭐ \*This project demonstrates practical exploration of pretrained Word2Vec embeddings, semantic similarity, and vector arithmetic in Natural Language Processing.\*
 
