@@ -76,8 +76,6 @@ This project explores \*\*Word2Vec\*\* dense word embeddings using Google's pret
 
 ## 📁 Project Structure
 
-```text
-
 Word2Vec-Embeddings-Exploration/
 
 │
@@ -86,8 +84,7 @@ Word2Vec-Embeddings-Exploration/
 
 └── README.md
 
-```\.
-
+```
 
 
 ## 👩‍💻 Author
@@ -99,4 +96,7 @@ Email: sakshikachare444@gmail.com
 GitHub: https://github.com/Sakshi-Kachare
 
 ⭐ This project demonstrates practical exploration of pretrained Word2Vec embeddings, semantic similarity, and vector arithmetic in Natural Language Processing.
+
+
+
 
