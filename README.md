@@ -84,19 +84,11 @@ Word2Vec-Embeddings-Exploration/
 
 └── README.md
 
-```
-
-
 ## 👩‍💻 Author
+Sakshi Kachare  
 
-Sakshi Kachare 
+Email: sakshikachare444@gmail.com  
+GitHub: [Sakshi-Kachare](https://github.com/Sakshi-Kachare)
 
-Email: sakshikachare444@gmail.com 
-
-GitHub: https://github.com/Sakshi-Kachare
-
-⭐ This project demonstrates practical exploration of pretrained Word2Vec embeddings, semantic similarity, and vector arithmetic in Natural Language Processing.
-
-
-
+⭐ *This project demonstrates practical exploration of pretrained Word2Vec embeddings, semantic similarity, and vector arithmetic in Natural Language Processing.*
 
